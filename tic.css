@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(177, 59, 59);
+}
+.header{
+    display: flex;
+    justify-content: center;
+    font-size: 57px;
+    margin-top: 30px;
+}
+.button1{
+    display: flex;
+    align-items: center;
+    justify-content: center ;
+    margin-top: 50px;
+    margin-bottom: 72px;
+}
+#reset{
+    border-radius: 16px;
+    width: 100px;
+    height: 38px;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.first{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 55px;   
+}
+.box_f1{
+    border: 2px solid black;
+    height: 90px;
+    width: 90px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    margin: 5px 5px 5px 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box_f2{
+    border: 2px solid black;
+    height: 90px;
+    width: 90px;
+    background-color: rgb(238, 247, 255);
+    border-radius: 10px;
+    margin: 5px 5px 5px 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}.box_f3{
+    border: 2px solid black;
+    height: 90px;
+    width: 90px;
+    background-color: rgb(238, 247, 255);
+    border-radius: 10px;
+    margin: 5px 5px 5px 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.second{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 55px;
+}
+.box_s1{
+    border: 2px solid black;
+    height: 90px;
+    width: 90px;
+    background-color: rgb(238, 247, 255);
+    border-radius: 10px;
+    margin: 5px 5px 5px 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box_s2{
+    border: 2px solid black;
+    height: 90px;
+    width: 90px;
+    background-color: rgb(238, 247, 255);
+    border-radius: 10px;
+    margin: 5px 5px 5px 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}.box_s3{
+    border: 2px solid black;
+    height: 90px;
+    width: 90px;
+    background-color: rgb(238, 247, 255);
+    border-radius: 10px;
+    margin: 5px 5px 5px 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.third{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    font-size: 55px;   
+}
+.box_t1{
+    border: 2px solid black;
+    height: 90px;
+    width: 90px;
+    background-color: rgb(238, 247, 255);
+    border-radius: 10px;
+    margin: 5px 5px 5px 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box_t2{
+    border: 2px solid black;
+    height: 90px;
+    width: 90px;
+    background-color: rgb(238, 247, 255);
+    border-radius: 10px;
+    margin: 5px 5px 5px 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}.box_t3{
+    border: 2px solid black;
+    height: 90px;
+    width: 90px;
+    background-color: rgb(238, 247, 255);
+    border-radius: 10px;
+    margin: 5px 5px 5px 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    font-size: 50px;
+}
+.winMessage{
+    font-size: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 75px;
+    color: rgb(0, 0, 0);
+}
